@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XM42uKrYQUB/446YP7MVus5HDNS6+L76YTGwXLm6BG1KBsOanKcTIeGalH5/Gjmf3RVwmNgGfr5iKpuiBNQB6Q==",
+  "dgSpecHash": "lZY/IOjIfxlnDskmoU0covjt2kBe8hUtoAMGt8bie9RlLXNT1+s2wrVawaDAS9nVDFo8XVw53IYKVTQNHgE8Qg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
