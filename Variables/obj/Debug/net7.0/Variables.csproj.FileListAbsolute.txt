@@ -1,0 +1,14 @@
+C:\Users\beard\Documents\GitHub\csharp\Variables\bin\Debug\net7.0\Variables.exe
+C:\Users\beard\Documents\GitHub\csharp\Variables\bin\Debug\net7.0\Variables.deps.json
+C:\Users\beard\Documents\GitHub\csharp\Variables\bin\Debug\net7.0\Variables.runtimeconfig.json
+C:\Users\beard\Documents\GitHub\csharp\Variables\bin\Debug\net7.0\Variables.dll
+C:\Users\beard\Documents\GitHub\csharp\Variables\bin\Debug\net7.0\Variables.pdb
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.AssemblyInfoInputs.cache
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.AssemblyInfo.cs
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.dll
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\refint\Variables.dll
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.pdb
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\Variables.genruntimeconfig.cache
+C:\Users\beard\Documents\GitHub\csharp\Variables\obj\Debug\net7.0\ref\Variables.dll

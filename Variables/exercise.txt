@@ -1,0 +1,22 @@
+Inside of the RunExercise method of the Exercise class declare 3 variables "myString", "myDecimal" and "myBoolean".
+The types of those variables should be string, decimal, and bool respectively.
+Don't forget to end your lines with semicolons (;), and put an "m" after the value you assign to your decimal.
+
+
+{
+    public class Exercise
+    {
+        public void RunExercise()
+        {
+            //Write Your Code Here
+            string myString = "This is my string.";
+            decimal myDecimal = 123m;
+            bool myBoolean = true;
+            
+            //Write You Code Above This Line
+            Console.WriteLine(myString.GetType());
+            Console.WriteLine(myDecimal.GetType());
+            Console.WriteLine(myBoolean.GetType());
+        }
+    }
+}

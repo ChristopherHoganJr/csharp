@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\beard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\beard\\Documents\\GitHub\\csharp\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beard\\AppData\\Roaming\\NuGet\\NuGet.Config"
